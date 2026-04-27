@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+openai-whisper
+groq
+scikit-learn
+numpy
+sentence-transformers
+pymupdf
+python-pptx
+pdfkit
+markdown
+pypdf
+torch
